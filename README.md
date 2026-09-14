@@ -152,7 +152,7 @@ These results suggest that iMac generated the highest revenue with a comparative
 - Jupyter Notebooks for exploratory analysis
 - Git and GitHub for version control
 
-## Recommended Repository Structure
+##  Repository Structure
 
 ```text
 eniac-discount-strategy/
