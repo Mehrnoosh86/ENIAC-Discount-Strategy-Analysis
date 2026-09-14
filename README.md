@@ -157,11 +157,22 @@ These results suggest that iMac generated the highest revenue with a comparative
 ```text
 eniac-discount-strategy/
 ├── README.md
-├── data/
+├── Raw/
 │   ├── orders.csv
 │   ├── orderlines.csv
 │   ├── products.csv
 │   └── brands.csv
+├── Clean/
+│   ├── orders_clean.csv
+│   ├── orderlines_clean.csv
+│   ├── products_clean.csv
+│   └── brands_clean.csv
+├── Quality_Assessment/
+│   ├── orders_qa.csv
+│   ├── orderlines_qa.csv
+│   ├── products_qa.csv
+├── Categories/
+│   ├──products_with_categories.csv
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb
 │   ├── 02_data_cleaning.ipynb
